@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build:labextension",
+			"path": ".venv/share/jupyter/labextensions/jupyterlab-plotly",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build:labextension - .venv/share/jupyter/labextensions/jupyterlab-plotly",
+			"detail": "jupyter labextension build ."
+		}
+	]
+}
