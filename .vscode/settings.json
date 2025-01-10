@@ -1,0 +1,20 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "accessibility.signalOptions.experimental.delays.errorAtPosition": {
+        "announcement": 3000,
+        "sound": 1000
+    },
+    "editor.unicodeHighlight.includeComments": "inUntrustedWorkspace",
+    "files.candidateGuessEncodings": [
+        "utf8"
+    ],
+    "editor.experimental.preferTreeSitter": [
+        "typescript"
+    ],
+    "editor.experimentalWhitespaceRendering": "font",
+    "powerquery.client.additionalSymbolsDirectories": [
+        ""
+    ]
+}
